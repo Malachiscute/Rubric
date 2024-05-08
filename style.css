@@ -1,4 +1,3 @@
-
 h1 {
   color: #fe218b;
   text-align: center;
@@ -12,38 +11,40 @@ h2 {
   text-align: center;
   font-family: "Garamond" , serif;
   background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
-  
+  background-color: #00d4ff; /* New background color */
 }
 h3 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif; 
- background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+  background-color: #00d4ff; /* New background color */
 }
 h4 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif;   
   background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+  background-color: #00d4ff; /* New background color */
 }
 h5 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif;  
   background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+  background-color: #00d4ff; /* New background color */
 }
 h6 {
   color: black;
   text-align: center;
   font-family: "Garamond" , serif;
   background-image: linear-gradient(to bottom, #ffffff, #f0f8ff, #cef5ff, #9ef5ff, #69f5ff, #69f5ff, #69f5ff, #69f5ff, #9ef5ff, #cef5ff, #f0f8ff, #ffffff);
+  background-color: #00d4ff; /* New background color */
 }
 p {
   color: #4C0334;  
   font-family: "Courier New", Times, serif;
-  font-size: 18px;
-  
-  
+  font-size: 18px;  
 }
 
 body {
